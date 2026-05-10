@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834471-23cece00-a40d-11eb-9ce7-4ca960ebc936.gif" alt="Header Banner" width="100%" />
+<img src="profile_banner.png" alt="Futuristic Cyberpunk Developer Workspace Banner" width="100%" />
 
 # <div align="center">Hi 👋, I'm Brijendra Pratap Yadav</div>
 
 ### <div align="center">🎓 Student & Aspiring Full Stack Developer 🚀</div>
 
 <p align="center">
-  <a href="https://github.com/brijendrapratapyadav">
+  <a href="https://github.com/Brijendra2002">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Learning+Full+Stack+Development;Java+%7C+MERN+Stack;Exploring+Cloud+%26+DevOps;Building+Cool+Projects" alt="Typing SVG" />
   </a>
 </p>
@@ -71,14 +71,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brijendrapratapyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="Brijendra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brijendrapratapyadav&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Brijendra's GitHub Streak" width="48%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Brijendra2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="Brijendra's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brijendra2002&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Brijendra's GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijendrapratapyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="60%" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Brijendra2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -86,10 +86,10 @@
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:brijendrapratapyadav8@gmail.com">
+  <a href="mailto:brijendrapratapyadav8@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/brijendra-pratap-yadav">
+  <a href="https://www.linkedin.com/in/brijendra-pratap-yadav/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
