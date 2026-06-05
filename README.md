@@ -1,10 +1,11 @@
+
 <div align="center">
 
-<img src="profile_banner.png" alt="Futuristic Cyberpunk Developer Workspace Banner" width="100%" />
+<img src="profile_banner.png" alt="Futuristic Cyberpunk Developer Workspace Banner" width="800" />
 
-# <div align="center">Hi 👋, I'm Brijendra Pratap Yadav</div>
+# Hi 👋, I'm Brijendra Pratap Yadav
 
-### <div align="center">🎓 Student & Aspiring Full Stack Developer 🚀</div>
+### 🎓 Student & Aspiring Full Stack Developer 🚀
 
 <p align="center">
   <a href="https://github.com/Brijendra2002">
@@ -16,86 +17,103 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🎓 **Current Status**: I'm a passionate student actively learning and exploring **Full Stack Development**.
-* 💻 **Tech Stack**: Currently mastering **Java** and the **MERN Stack (MongoDB, Express, React, Node.js)**.
-* ☁️ **Learning**: Diving deep into Cloud Platforms (**AWS, Azure, GCP**), **Docker**, and **CI/CD Pipelines**.
-* 🔐 **Interests**: Building secure Web Apps, working with Authentication systems, and learning new deployment strategies.
-* 🌱 **Goal**: To become a proficient Software Engineer and build scalable applications.
-* 🤝 **Collaboration**: Open to collaborating on open-source projects and student hackathons!
+- 🎓 **Current Status:** Passionate student actively learning and exploring **Full Stack Development**
+- 💻 **Tech Stack:** Java, MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- ☁️ **Learning:** AWS, Azure, GCP, Docker, and CI/CD Pipelines
+- 🔐 **Interests:** Web Security, Authentication Systems, Cloud Deployment
+- 🌱 **Goal:** Become a Software Engineer and build scalable applications
+- 🤝 **Collaboration:** Open Source Projects & Hackathons
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
-#### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css" />
 </a>
 
-<br />
+### 🌐 Frontend Development
 
-#### 🌐 Frontend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,vite" />
 </a>
 
-<br />
+### ⚙️ Backend & Databases
 
-#### ⚙️ Backend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" />
 </a>
 
-<br />
+### ☁️ Cloud, DevOps & CI/CD
 
-#### ☁️ Cloud, DevOps & CI/CD
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions" />
 </a>
 
-<br />
+### 🚀 Tools & Deployment
 
-#### 🚀 Tools & Deployment
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" />
 </a>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Brijendra2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="Brijendra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brijendra2002&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="Brijendra's GitHub Streak" width="48%" />
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Brijendra2002&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Brijendra2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brijendra2002&theme=tokyonight&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijendra2002&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+
 </div>
 
 ---
 
-### 📫 Let's Connect
+## 🎯 Current Focus
+
+```text
+✔ Java & DSA
+✔ MERN Stack Development
+✔ REST APIs
+✔ Authentication & Security
+✔ Cloud Computing
+✔ Docker & CI/CD
+````
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:brijendrapratapyadav8@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/brijendra-pratap-yadav/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+<a href="mailto:brijendrapratapyadav8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/brijendra-pratap-yadav/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
+---
+
 <div align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Let's+build+something+amazing;" alt="Typing SVG Footer" />
-  </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!;Let's+build+something+amazing!;Happy+Coding!+🚀" />
+
 </div>
+```
